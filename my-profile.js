@@ -7,11 +7,9 @@ document.body.appendChild(newh1);
 newh1.classList.add("name");
 
 
-
-// var img = document.createElement("img");
-// img.src = "img/luffypfp.png";
-// var src = document.getElementById("image-container");
-// src.appendChild(img);
+const img = document.createElement("img");
+img.src = "./img/luffypfp.png";
+document.body.appendChild(img);
 
 const listItems = [
     "I Love Meat!!!",
