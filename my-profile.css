@@ -1,1 +1,28 @@
+h1.name {
+    color: red;
+    margin-bottom: 20px;
+}
 
+ul.my-details {
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    width: 210px;
+}
+
+li.detail:hover {
+    color: red;
+    background-color: yellow;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+
+img {
+    width: 28%;
+    height: auto;
+}
